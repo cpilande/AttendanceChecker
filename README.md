@@ -1,6 +1,6 @@
 # AttendanceChecker
 
-##Project Description
+## Project Description
 This project was created in collaboration with the Engaging Girls in Ubiquitous Intelligence and Computing (GUIC) Summer Camp initiative as part of the National Scientist Foundation-funded UNLV ITEST project. 
 
 Objective: Students will make an attendance checking system to efficiently take attendance in a
