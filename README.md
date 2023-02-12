@@ -38,9 +38,10 @@ Libraries (found in “Manage Libraries” tab)
 ## Set-Up
 
 **Servo Motor Connection**
-Red Wire - 5V
-Brown Wire - Gnd
-Yellow Wire - Digital pin
+- Red Wire connects to 5V pin
+- Brown Wire connects to GND pin
+- Yellow Wire connects to digital pin
+- 
 <img width="262" alt="Screenshot 2023-02-12 at 11 54 26 AM" src="https://user-images.githubusercontent.com/120698868/218333781-6aabccbb-a74b-4742-a404-65cd9a30d1c2.png">
 
 **RFID Reader & ESP32 Connection**
