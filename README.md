@@ -16,24 +16,24 @@ process and greater security in the classroom.
 
 **Materials Needed**
 
-● ESP32 Microcontroller
-● MFRC522 Module
-● 2 LED’s, 1 green and 1 red
-● Servo Motor
-● Breadboard
-● Wires (Male to female)
-● USB Cable
-● Computer
+- ESP32 Microcontroller
+- MFRC522 Module
+- 2 LED’s, 1 green and 1 red
+- Servo Motor
+- Breadboard
+- Wires (Male to female)
+- USB Cable
+- Computer
 
 **Important Arduino Installations**
 
 Boards (found in “Board Manager” tab)
-● ESP32
+- ESP32
 
 Libraries (found in “Manage Libraries” tab)
-● Blynk
-● ESP32Servo
-● MFRC522
+- Blynk
+- ESP32Servo
+- MFRC522
 
 ## Set-Up
 
@@ -41,19 +41,15 @@ Libraries (found in “Manage Libraries” tab)
 Red Wire - 5V
 Brown Wire - Gnd
 Yellow Wire - Digital pin
-![Servo Motor]
 (<img width="262" alt="Screenshot 2023-02-12 at 11 54 26 AM" src="https://user-images.githubusercontent.com/120698868/218333781-6aabccbb-a74b-4742-a404-65cd9a30d1c2.png">)
 
 **RFID Reader & ESP32 Connection**
-![Connections]
 (<img width="194" alt="Screenshot 2023-02-12 at 11 54 53 AM" src="https://user-images.githubusercontent.com/120698868/218333812-0b9a7e8e-8f6f-47cf-9b19-9921cc2a215a.png">)
 
 **Blynk App - Mobile Dashboard Template**
-![Dashboard]
 (<img width="335" alt="Screenshot 2023-02-12 at 11 55 18 AM" src="https://user-images.githubusercontent.com/120698868/218333834-3cd7bad3-b63c-4f2e-ab61-08a02022f616.png">)
 
 **Blynk App - Datastreams Template**
-![Datastream]
 (<img width="522" alt="Screenshot 2023-02-12 at 11 55 56 AM" src="https://user-images.githubusercontent.com/120698868/218333868-5b347ce9-693c-4340-b18d-dde8e023f0da.png">)
 
 ## Running the tests
@@ -77,7 +73,7 @@ a. Use a time period of 1 minute in order to test that this works.
 ESP32: How to read RFID tags with a RFID Reader
 https://www.youtube.com/watch?v=pJLjFm4Ipro&t=297s
 
-##Built with
+## Built with
 - Arduino
 - Blynk App
 
