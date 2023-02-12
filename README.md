@@ -55,17 +55,17 @@ Yellow Wire - Digital pin
 ## Running the tests
 1. Tap the card on the RF module.
 2. If the UID of the card matches the one stored in the Blynk table...
-    a. In the Blynk table, the student’s status changes from “Absent” to “Present.”
-    b. Output to the serial monitor that the student has been checked in.
-    c. The green LED lights up, and the red LED turns off.
-    d. The servo motor moves in order to open the door.
+    - In the Blynk table, the student’s status changes from “Absent” to “Present.”
+    - Output to the serial monitor that the student has been checked in.
+    - The green LED lights up, and the red LED turns off.
+    - The servo motor moves in order to open the door.
 3. If the UID of the card does not match the one stored in the Blynk table...
-    a. Output to the serial monitor that access has been denied.
-    b. Nothing changes in the Blynk Table.
+    - Output to the serial monitor that access has been denied.
+    - Nothing changes in the Blynk Table.
 4. If the student was already checked in...
-    a. The servo motor moves to open the door.
-    b. The green LED lights up, and the red LED turns off.
-    c. Nothing changes in the Blynk Table.
+    - The servo motor moves to open the door.
+    - The green LED lights up, and the red LED turns off.
+    - Nothing changes in the Blynk Table.
 5. The class’s attendance should reset to “Absent” for all students after a certain period of time. This simulates a class period.
 a. Use a time period of 1 minute in order to test that this works.
 
