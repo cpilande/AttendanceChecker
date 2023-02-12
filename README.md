@@ -42,15 +42,23 @@ Libraries (found in “Manage Libraries” tab)
 - Brown Wire connects to GND pin
 - Yellow Wire connects to digital pin
 
-![Motor] (<img width="262" alt="Screenshot 2023-02-12 at 11 54 26 AM" src="https://user-images.githubusercontent.com/120698868/218333781-6aabccbb-a74b-4742-a404-65cd9a30d1c2.png">)
+<img width="262" alt="Screenshot 2023-02-12 at 11 54 26 AM" src="https://user-images.githubusercontent.com/120698868/218333781-6aabccbb-a74b-4742-a404-65cd9a30d1c2.png">
 
 **RFID Reader & ESP32 Connection**
+
 <img width="194" alt="Screenshot 2023-02-12 at 11 54 53 AM" src="https://user-images.githubusercontent.com/120698868/218333812-0b9a7e8e-8f6f-47cf-9b19-9921cc2a215a.png">
 
 **Blynk App - Mobile Dashboard Template**
+- Components
+  - Student names with corresponding strings, stating "Absent" or "Present"
+  - 3 LED's connected to corresponding students (use for testing purposes) 
+
 <img width="335" alt="Screenshot 2023-02-12 at 11 55 18 AM" src="https://user-images.githubusercontent.com/120698868/218333834-3cd7bad3-b63c-4f2e-ab61-08a02022f616.png">
 
 **Blynk App - Datastreams Template**
+- Components
+   - 3 student names with string data types
+   - 3 virtual pins with integer data types (for testing purposes) 
 <img width="522" alt="Screenshot 2023-02-12 at 11 55 56 AM" src="https://user-images.githubusercontent.com/120698868/218333868-5b347ce9-693c-4340-b18d-dde8e023f0da.png">
 
 ## Running the tests
