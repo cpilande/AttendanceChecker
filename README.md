@@ -80,10 +80,12 @@ a. Use a time period of 1 minute in order to test that this works.
 
 ## Output
 **Arduino Serial Monitor Output** 
+
 <img width="553" alt="Screenshot 2023-02-13 at 9 59 02 PM" src="https://user-images.githubusercontent.com/120698868/218663897-eb00a634-5dd1-4a9b-943c-fbcc71369b03.png">
 
+**Blynk App Output**
 
-
+<img width="376" alt="Screenshot 2023-02-13 at 11 10 11 PM" src="https://user-images.githubusercontent.com/120698868/218665106-f3b53f08-634e-4863-9e5f-85d8c82fc6a7.png">
 
 ## Suggested Resources
 ESP32: How to read RFID tags with a RFID Reader
