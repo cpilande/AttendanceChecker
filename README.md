@@ -87,7 +87,7 @@ a. Use a time period of 1 minute in order to test that this works.
 
 <img width="376" alt="Screenshot 2023-02-13 at 11 10 11 PM" src="https://user-images.githubusercontent.com/120698868/218665106-f3b53f08-634e-4863-9e5f-85d8c82fc6a7.png">
 
-**Attendance Checker Demo **
+**Attendance Checker Demo**
 https://github.com/cpilande/AttendanceChecker/assets/120698868/c4153ec7-69c1-43b5-93f0-278a85f08143
 
 
